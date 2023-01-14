@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJM3pXzD/4kGOoHQG7VL+TUevhblT+bcUVDIxKFVd88397pOSEMdXbUja5iO4k7f4cou3GtKQWEkmaqHSntVuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hears\\source\\repos\\SuperPIM.backup2\\SuperPIM.Application\\SuperPIM.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hears\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
